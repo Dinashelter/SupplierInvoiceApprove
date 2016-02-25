@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="ablunit.launchType">
+<stringAttribute key="ATTR_ABLUNIT_TESTCASE_NAME" value="D:/d6l/WorkSpace/SupplierInvoiceApprove/tests/SupplierInvoiceApproveTestCase.p"/>
+<booleanAttribute key="ATTR_ABLUNIT_TEST_CASE_SELECTION" value="true"/>
+<booleanAttribute key="ATTR_ABLUNIT_TEST_FOLDER_SELECTION" value="false"/>
+<stringAttribute key="ATTR_ABLUNIT_TEST_NAME" value=""/>
+<stringAttribute key="abl.client.PROVERSION" value="11.4"/>
+<booleanAttribute key="abl.client.USE_TTY" value="false"/>
+<stringAttribute key="abl.debug.ABL_PROGRAM" value="ABLUnitCore.r"/>
+<stringAttribute key="abl.debug.ATTR_ABL_PROJECT_NAME" value="SupplierInvoiceApprove"/>
+<stringAttribute key="abl.startup.WORKING_DIRECTORY" value="D:\d6l\WorkSpace\SupplierInvoiceApprove\tests"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/SupplierInvoiceApprove/tests/SupplierInvoiceApproveTestCase.p"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="ATTR_ABLUNIT_EVENT_FILE" value="D:\d6l\WorkSpace\.metadata\.plugins\com.progress.openedge.pdt.ablunit\input1456302079254"/>
+<mapEntry key="ATTR_ABLUNIT_TESTCASE_NAME" value="D:/d6l/WorkSpace/SupplierInvoiceApprove/tests/SupplierInvoiceApproveTestCase.p"/>
+</mapAttribute>
+</launchConfiguration>
